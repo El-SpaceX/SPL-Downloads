@@ -1,5 +1,5 @@
 # SPL-Downloads
- SPL-Downloads é um programa simples de baixar vídeo do YouTube com uma interface gráfica>
+ SPL-Downloads é um programa simples programa, de download de vídeos do YouTubecom interface gráfica.
 
 # Modulos usados
 
