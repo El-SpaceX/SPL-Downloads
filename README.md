@@ -1,2 +1,9 @@
 # SPL-Downloads
- Um simples programa de fazer downloads de vídeos e áudios do youtube, usando pytube e interface gráfica.
+ SPL-Downloads é um programa simples de baixar vídeo do YouTube com uma interface gráfica>
+
+# Modulos usados
+
+* [pytube](https://pytube.io/en/latest/)
+* [PyQt5](https://pypi.org/project/PyQt5/)
+* [tkinter](https://docs.python.org/3/library/tkinter.html)
+* [os](https://docs.python.org/3/library/os.html)
